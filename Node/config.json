@@ -1,0 +1,10 @@
+{
+	"Version": 33,
+	"GossipFanout": 0,
+	"IncomingConnectionsLimit": 0,
+	"DNSBootstrapID": "",
+	"EnableProfiler": true,
+	"EnableRuntimeMetrics": true,
+	"DisableNetworking": true,
+	"EnableExperimentalAPI": true
+}

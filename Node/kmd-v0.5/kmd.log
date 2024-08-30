@@ -18,3 +18,23 @@ time="2024-04-27T17:38:18.333950 +0530" level=info msg="started kmd on sock: 127
 time="2024-04-27T17:39:22.586513 +0530" level=info msg="killing kmd after timeout" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).makeWatchdogCallback.func2" line=173
 time="2024-04-27T17:39:22.587019 +0530" level=info msg="kmd wallet HTTP server stopped with: http: Server closed" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).start.func2" line=277
 time="2024-04-27T17:39:22.587488 +0530" level=info msg="kmd server died. exiting..." file=main.go function=main.runKmd line=122
+time="2024-08-30T09:24:04.484508 +0530" level=info msg="failed to mlockall: cannot allocate memory" file=mlock_linux.go function=main.tryMlockall line=30
+time="2024-08-30T09:24:04.495636 +0530" level=info msg="started kmd on sock: 127.0.0.1:7833" file=main.go function=main.runKmd line=118
+time="2024-08-30T09:25:07.038819 +0530" level=info msg="killing kmd after timeout" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).makeWatchdogCallback.func2" line=173
+time="2024-08-30T09:25:07.059998 +0530" level=info msg="kmd wallet HTTP server stopped with: http: Server closed" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).start.func2" line=277
+time="2024-08-30T09:25:07.060616 +0530" level=info msg="kmd server died. exiting..." file=main.go function=main.runKmd line=122
+time="2024-08-30T09:31:19.576795 +0530" level=info msg="failed to mlockall: cannot allocate memory" file=mlock_linux.go function=main.tryMlockall line=30
+time="2024-08-30T09:31:19.582280 +0530" level=info msg="started kmd on sock: 127.0.0.1:7833" file=main.go function=main.runKmd line=118
+time="2024-08-30T09:32:45.691611 +0530" level=info msg="killing kmd after timeout" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).makeWatchdogCallback.func2" line=173
+time="2024-08-30T09:32:45.692539 +0530" level=info msg="kmd wallet HTTP server stopped with: http: Server closed" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).start.func2" line=277
+time="2024-08-30T09:32:45.693301 +0530" level=info msg="kmd server died. exiting..." file=main.go function=main.runKmd line=122
+time="2024-08-30T09:40:13.039706 +0530" level=info msg="failed to mlockall: cannot allocate memory" file=mlock_linux.go function=main.tryMlockall line=30
+time="2024-08-30T09:40:13.052083 +0530" level=info msg="started kmd on sock: 127.0.0.1:7833" file=main.go function=main.runKmd line=118
+time="2024-08-30T09:41:15.252467 +0530" level=info msg="killing kmd after timeout" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).makeWatchdogCallback.func2" line=173
+time="2024-08-30T09:41:15.253039 +0530" level=info msg="kmd wallet HTTP server stopped with: http: Server closed" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).start.func2" line=277
+time="2024-08-30T09:41:15.253507 +0530" level=info msg="kmd server died. exiting..." file=main.go function=main.runKmd line=122
+time="2024-08-30T09:52:31.596879 +0530" level=info msg="failed to mlockall: cannot allocate memory" file=mlock_linux.go function=main.tryMlockall line=30
+time="2024-08-30T09:52:31.601548 +0530" level=info msg="started kmd on sock: 127.0.0.1:7833" file=main.go function=main.runKmd line=118
+time="2024-08-30T09:54:13.342383 +0530" level=info msg="killing kmd after timeout" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).makeWatchdogCallback.func2" line=173
+time="2024-08-30T09:54:13.343304 +0530" level=info msg="kmd wallet HTTP server stopped with: http: Server closed" file=server.go function="github.com/algorand/go-algorand/daemon/kmd/server.(*WalletServer).start.func2" line=277
+time="2024-08-30T09:54:13.344232 +0530" level=info msg="kmd server died. exiting..." file=main.go function=main.runKmd line=122
